@@ -11,7 +11,7 @@ Download the dataset from Kaggle.
 Tools: Python (pandas)
 
 Data Storage
-Store the dataset in a SQL database for efficient querying.
+Store the dataset in a SQL database for efficient querying.       
 Tools: SQL (SQLite or PostgreSQL), Python (sqlite3 or SQLAlchemy)
 
 Data Cleaning and Preprocessing
