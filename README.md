@@ -7,7 +7,7 @@ Amazon Customer Reviews Dataset - https://www.kaggle.com/datasets/snap/amazon-fi
 Steps and Tools:
 
 Data Acquisition
-Download the dataset from Kaggle.
+Download the dataset from Kaggle.           
 Tools: Python (pandas)
 
 Data Storage
