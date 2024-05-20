@@ -3,7 +3,7 @@ Objective:
 To analyze a dataset containing Amazon product reviews, focusing on sentiment analysis, identifying top-rated products, and understanding common themes in reviews.
 
 Dataset:
-Amazon Customer Reviews Dataset - https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+Amazon Customer Reviews Dataset - https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews  
 Steps and Tools:
 
 Data Acquisition
