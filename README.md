@@ -15,12 +15,12 @@ Store the dataset in a SQL database for efficient querying.
 Tools: SQL (SQLite or PostgreSQL), Python (sqlite3 or SQLAlchemy)
 
 Data Cleaning and Preprocessing
-Clean the data to handle missing values, incorrect formats, etc.
+Clean the data to handle missing values, incorrect formats, etc.         
 Tools: Python (pandas)
 
 Data Analysis
 Perform sentiment analysis on reviews.
-Analyze top-rated products, common themes in reviews, etc.
+Analyze top-rated products, common themes in reviews, etc.                 
 Tools: Python (NLTK or TextBlob for sentiment analysis), SQL
 
 Data Visualization
