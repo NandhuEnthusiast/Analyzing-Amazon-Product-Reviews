@@ -24,5 +24,5 @@ Analyze top-rated products, common themes in reviews, etc.
 Tools: Python (NLTK or TextBlob for sentiment analysis), SQL
 
 Data Visualization
-Visualize the results using Python libraries.
+Visualize the results using Python libraries.             
 Tools: Python (matplotlib, seaborn, wordcloud)
